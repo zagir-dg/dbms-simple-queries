@@ -102,11 +102,11 @@
     
     ![№8][def8]
 
-[def]: .\screenshots\№1.png
-[def2]: .\screenshots\№2.png
-[def3]: .\screenshots\№3.png
-[def4]: .\screenshots\№4.png
-[def5]: .\screenshots\№5.png
-[def6]: .\screenshots\№6.png
-[def7]: .\screenshots\№7.png
-[def8]: .\screenshots\№8.png
+[def]: screenshots/№1.png
+[def2]: screenshots/№2.png
+[def3]: screenshots/№3.png
+[def4]: screenshots/№4.png
+[def5]: screenshots/№5.png
+[def6]: screenshots/№6.png
+[def7]: screenshots/№7.png
+[def8]: screenshots/№8.png
