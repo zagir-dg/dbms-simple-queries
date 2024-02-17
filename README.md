@@ -73,6 +73,8 @@
 
     ![№6][def6]
 
+---
+
 7. Вывести всех клиентов из IT, у которых транзакции с максимальной стандартной стоимостью.
 
         select c.customer_id, c.first_name, c.last_name, c.job_industry_category
@@ -84,6 +86,8 @@
             and t.standard_cost = (select max(standard_cost) from "transaction");
 
     ![№7][def7]
+
+---
 
 8. Вывести всех клиентов из сферы IT и Health, у которых есть подтвержденные транзакции за период '2017-07-07' по '2017-07-17'.
 
@@ -98,11 +102,11 @@
     
     ![№8][def8]
 
-[def]: \screenshots\№1.png
-[def2]: \screenshots\№2.png
-[def3]: \screenshots\№3.png
-[def4]: \screenshots\№4.png
-[def5]: \screenshots\№5.png
-[def6]: \screenshots\№6.png
-[def7]: \screenshots\№7.png
-[def8]: \screenshots\№8.png
+[def]: .\screenshots\№1.png
+[def2]: .\screenshots\№2.png
+[def3]: .\screenshots\№3.png
+[def4]: .\screenshots\№4.png
+[def5]: .\screenshots\№5.png
+[def6]: .\screenshots\№6.png
+[def7]: .\screenshots\№7.png
+[def8]: .\screenshots\№8.png
